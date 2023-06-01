@@ -2,13 +2,12 @@
     
   ## License
   ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg) 
- 
   (https://www.gnu.org/licenses/gpl-3.0)
 
   ## Description
   As a small business owner I want to track my daily schedule with a way to track my notes. So that I can organize my thoughts and keep track of tasks I need to complete.
 
-  ## Table of Contents
+  # Table of Contents
   - [License](#license)
   - [Instalation](#installation)
   - [Usage](#usage)
@@ -18,26 +17,23 @@
   - [Features](#features)
 
   ## Installation
+  Clone here: https://github.com/jeremiahmiranda79/note-taker 
   Use `npm i` to install the dependancies. 
-
-  https://github.com/jeremiahmiranda79/note-taker
 
   ## Usage
   Use `npm run dev` to start the server.
 
   ## Contribution
   I used my README.md file generator to create this README.md 😉 
-
-  - Email: jeremahmiranda79@gmail.com
-  - GitHub: http://github.com/jeremiahmiranda79
+  GitHub: https://github.com/jeremiahmiranda79/Pro-README-FILE-Generator
 
   ## Test
   N/A
 
   ## Badges 🏆
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55Fstyle=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-  # Features
+  ## Features
   Open the app and reach a nice landing page!
 
   ![Screenshot](/Assets/Screenshot-home-page.png)
