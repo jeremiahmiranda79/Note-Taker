@@ -9,7 +9,7 @@
 
   # Table of Contents
   - [License](#license)
-  - [Instalation](#installation)
+  - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Test](#test)
@@ -17,18 +17,18 @@
   - [Features](#features)
 
   ## Installation
-  Clone here: https://github.com/jeremiahmiranda79/note-taker 
-  Use `npm i` to install the dependancies. 
+  * Clone here: https://github.com/jeremiahmiranda79/note-taker 
+  * Use `npm i` to install the dependancies. 
 
   ## Usage
-  Use `npm run dev` to start the server.
+  * Use `npm run dev` to start the server.
 
   ## Contribution
-  I used my README.md file generator to create this README.md 😉 
-  GitHub: https://github.com/jeremiahmiranda79/Pro-README-FILE-Generator
+  * I used my README.md file generator to create this README.md 😉
+  * GitHub: https://github.com/jeremiahmiranda79/Pro-README-FILE-Generator
 
   ## Test
-  N/A
+  * N/A
 
   ## Badges 🏆
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55Fstyle=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
