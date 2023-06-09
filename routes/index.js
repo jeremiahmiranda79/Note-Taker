@@ -7,7 +7,6 @@ const app = express();
 
 // Notes router
 app.use('/notes', notesRouter);
-app.use('/notes/:id', notesRouter);
 
 // Export
 module.exports = app;

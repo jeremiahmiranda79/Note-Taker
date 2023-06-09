@@ -1,7 +1,7 @@
 // Dependancies
 const notes = require('express').Router();
-const { readFromFile, writeToFile, readAndAppend} = require('../public/assets/js/fsUtils');
-const uuid = require('../public/assets/js/uuid');
+const { readFromFile, writeToFile, readAndAppend} = require('../utils/fsUtils');
+const uuid = require('../utils/uuid');
 const db = require('../db/db.json');
 
 // Create
@@ -24,7 +24,14 @@ notes.get('/', (request, response) => readFromFile('./db/db.json').then((data) =
 
 // Delete
 notes.delete('/:id', (request, response) => {
+    console.log(db)
+    console.log(typeof db)
+
+
     const newDB = db.filter((note) => note.id !== request.params.id);
+
+    console.log(newDB);
+    
     writeToFile('./db/db.json', newDB);
     response.json(newDB);
 });
