@@ -20,7 +20,7 @@ notes.post('/', (request, response) => {
 // Read
 notes.get('/', (request, response) => readFromFile('./db/db.json').then((data) => response.json(JSON.parse(data))));
 
-// Upate
+// Update
 
 // Delete
 notes.delete('/:id', (request, response) => {
