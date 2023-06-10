@@ -25,7 +25,8 @@
   Use `npm i` to install the dependancies. 
 
   ## Usage
-  Use `npm run dev` to start the server.
+  Use `npm run dev` to start the server.\n
+  Or follow link 
 
   ## Contribution
   I used my README.md file generator to create this README.md 😉
