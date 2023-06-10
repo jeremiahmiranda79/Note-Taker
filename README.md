@@ -25,12 +25,14 @@
   Use `npm i` to install the dependancies. 
 
   ## Usage
-  Use `npm run dev` to start the server.\n
-  Or follow link 
+  - Use `npm run dev` to start the server.
+  - Or follow link https://fast-waters-15710.herokuapp.com/notes 
 
   ## Contribution
+  - http://github.com/jeremiahmiranda79
+  - https://github.com/kelpering
+
   I used my README.md file generator to create this README.md 😉
-  
   GitHub: https://github.com/jeremiahmiranda79/Pro-README-FILE-Generator
 
   ## Test
@@ -49,17 +51,17 @@
   ## Features
   Open the app and reach a nice landing page!
 
-  ![Screenshot](/Assets/Screenshot-home-page.png)
+  ![Screenshot](Assets/Screenshot-home-page.png)
 
   Press get started to create, read, and delete notes!
   Then create your first note!
 
-  ![Screenshot](/Assets//Screenshot-create-note.png)
+  ![Screenshot](Assets//Screenshot-create-note.png)
 
   Click a note to read it!
   
-  ![Screenshot](/Assets//Screenshot-read-note.png)
+  ![Screenshot](Assets//Screenshot-read-note.png)
 
   Click a note to delete it!
 
-  ![Screenshot](/Assets//Screenshot-delete-note.png)
+  ![Screenshot](Assets//Screenshot-delete-note.png)
